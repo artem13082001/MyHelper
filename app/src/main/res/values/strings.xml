@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyHelper</string>
+    <string name="calculate">Calculate</string>
+    <string name="inventory">Inventory</string>
+    <string name="grow">Grow</string>
+    <string name="history"><u>История</u></string>
+</resources>
